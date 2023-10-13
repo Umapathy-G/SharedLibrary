@@ -1,9 +1,9 @@
 def add(a,b){
-	echo "Sum of two number $a and $b is ${x+y}"
+	echo "Sum of two number ${a} and ${b} is ${x+y}"
 }
 
 def mul(a,b){
-	echo "Multiplication of two number $a and $b is ${a*b}"
+	echo "Multiplication of two number ${a} and ${b} is ${a*b}"
 }
 
 def call(){
