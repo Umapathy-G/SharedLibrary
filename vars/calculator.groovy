@@ -1,5 +1,5 @@
 def add(a,b){
-	echo "Sum of two number ${a} and ${b} is ${x+y}"
+	echo "Sum of two number ${a} and ${b} is ${a+b}"
 }
 
 def mul(a,b){
